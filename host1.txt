@@ -1,0 +1,4 @@
+10.160.149.126 sam.cengage.com 
+10.160.149.126 samcpws.cengage.com 
+10.160.149.126 project2010ws.cengage.com 
+10.160.149.126 samadmin.cengage.com
